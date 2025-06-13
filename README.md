@@ -48,9 +48,6 @@ Este projeto tem como objetivo realizar uma análise teórica e prática de trê
 #### Valores de N utilizados:
 100, 1.000, 10.000, 100.000, 1.000.000, 10.000.000
 
-markdown
-Copiar
-Editar
 
 ### Casos testados para cada N
 - ✅ **Melhor caso**: Lista já ordenada.
