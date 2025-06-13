@@ -77,16 +77,11 @@ Comb Sort
 Estrutura:
 Data, Hora, Algoritmo, N, Caso, Tempo, Memória
 
-makefile
-Copiar
-Editar
 
 Exemplo:
 2025-06-09, 17:50:13, Comb Sort, 10000, Caso médio, 112.134, 1024
 
-mathematica
-Copiar
-Editar
+
 
 ## 📊 Comparação Final
 
