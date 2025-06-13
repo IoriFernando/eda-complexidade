@@ -68,17 +68,10 @@ Arquivo contendo:
 linha 1: N
 linha 2: algoritmo
 
-makefile
-Copiar
-Editar
-
 Exemplo:
 10000
 Comb Sort
 
-makefile
-Copiar
-Editar
 
 ### Saída (CSV)
 Estrutura:
@@ -116,8 +109,9 @@ while trocou:                  # Executado até não haver trocas → até O(n)
       troca(lista[i], lista[i+1]) # Troca condicional → O(1)
 Resultado final: T(n) = n(n - 1) = O(n²)
 
-Análises semelhantes foram feitas para o Comb Sort (com fator de redução do gap) e Cycle Sort (com permutação e controle de posição).
 ```
+
+Análises semelhantes foram feitas para o Comb Sort (com fator de redução do gap) e Cycle Sort (com permutação e controle de posição).
 
 # 🖥️ Como Executar o Projeto
 ## ✅ Opção 1: Executar o script .py no PowerShell com Bypass e ambiente virtual
